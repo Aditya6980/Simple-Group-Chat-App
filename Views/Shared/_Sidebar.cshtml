@@ -1,0 +1,96 @@
+﻿<div class="sidebar d-flex h-100">
+    <!-- Sidebar icons -->
+    <ul class="nav flex-column icon-tab-switcher align-items-center justify-content-start py-4" style="width: 70px; height: 100vh; gap: 30px; background-color: #f8f9fa;">
+        <li class="nav-item">
+            <a class="nav-link active" data-tab="chats" role="tab" title="Chats" style="color: #6c757d;">
+                <i class="ri-message-3-line" style="font-size: 20px;"></i>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-tab="groups" role="tab" title="Groups" style="color: #6c757d;">
+                <i class="ri-group-line" style="font-size: 20px;"></i>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-tab="contacts" role="tab" title="Contacts" style="color: #6c757d;">
+                <i class="ri-contacts-book-line" style="font-size: 20px;"></i>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-tab="profile" role="tab" title="Profile" style="color: #6c757d;">
+                <i class="ri-user-3-line" style="font-size: 20px;"></i>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-tab="settings" role="tab" title="Settings" style="color: #6c757d;">
+                <i class="ri-settings-3-line" style="font-size: 20px;"></i>
+            </a>
+        </li>
+
+        <!-- Bottom Avatar -->
+        <li class="mt-auto">
+            <img src="~/img/avatar-1.jpg" alt="User" class="rounded-circle" style="width: 32px; height: 32px;">
+        </li>
+    </ul>
+
+
+    <!-- Sidebar Panels -->
+    <div id="sidebar-content" class="flex-grow-1 overflow-auto p-3" style="width: 380px; background-color: #f8f9fa;">
+
+        <!-- Chats Panel -->
+        <div id="chats" class="tab-section">
+            <h6 class="mb-3">Chats</h6>
+            <input type="text" class="form-control mb-3" placeholder="Search messages or users" />
+            <div class="d-flex justify-content-around text-center mb-3">
+                <div>
+                    <img src="~/img/avatar-1.jpg" class="rounded-circle avatar-sm" />
+                    <div class="small">Patrick</div>
+                </div>
+                <div>
+                    <img src="~/img/avatar-2.jpg" class="rounded-circle avatar-sm" />
+                    <div class="small">Doris</div>
+                </div>
+                <div>
+                    <img src="~/img/avatar-3.jpg" class="rounded-circle avatar-sm" />
+                    <div class="small">Emily</div>
+                </div>
+                <div>
+                    <img src="~/img/avatar-4.jpg" class="rounded-circle avatar-sm" />
+                    <div class="small">Steve</div>
+                </div>
+            </div>
+
+            <hr />
+            <div>
+                <p><strong>Patrick Hendricks</strong> <span class="text-muted small float-end">05 min</span></p>
+                <p class="text-muted small mb-3">Hey! there I'm available</p>
+                <p><strong>Mark Messer</strong> <span class="text-muted small float-end">12 min</span></p>
+                <p class="text-muted small mb-3">Images</p>
+            </div>
+        </div>
+
+        <!-- Other Panels -->
+        <div id="groups" class="tab-section d-none">
+            <h6 class="mb-3">Groups</h6>
+            <p class="text-muted">Group chat content here...</p>
+        </div>
+
+        <div id="contacts" class="tab-section d-none">
+            <h6 class="mb-3">Contacts</h6>
+            <p class="text-muted">List or search contacts...</p>
+        </div>
+
+        <div id="profile" class="tab-section d-none">
+            <h6 class="mb-3">Profile</h6>
+            <p class="text-muted">Show user profile info...</p>
+        </div>
+
+        <div id="settings" class="tab-section d-none">
+            <h6 class="mb-3">Settings</h6>
+            <p class="text-muted">Toggle theme, notifications, etc...</p>
+        </div>
+
+    </div>
+</div>
+
+

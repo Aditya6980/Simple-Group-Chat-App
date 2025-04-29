@@ -1,0 +1,250 @@
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Simple Group Chat App.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Simple Group Chat App.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Simple Group Chat App.exe
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Simple Group Chat App.deps.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Simple Group Chat App.runtimeconfig.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Simple Group Chat App.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Simple Group Chat App.pdb
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\scopedcss\bundle\Simple Group Chat App.styles.css
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\scopedcss\projectbundle\Simple Group Chat App.bundle.scp.css
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\g9ylvs9wyw-l0zd19oj9h.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\3cw2rq3hju-tl2itc3j8p.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\ybe4lx8ht3-wleev3md8r.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\6kktc5odzd-w49infysay.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\7ay6uxhtwh-a28q16vo32.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\74qs5w5xj1-qt4gg61hoh.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\urw6veh7z5-fsym95yfwi.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\7hloh6vh31-nsvu9s70zx.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\0zusr5tklv-493y06b0oq.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\kw1mku4wng-dm12ilrjcz.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\y3dtztu5ov-er7g8p61fl.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\dz3digz4d8-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\3porq83m6k-3ajr5l1ur1.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\dk6pd6pftu-p54ili40oh.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\p32b73cl5u-9gfujd5jyb.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\4wixy4osum-bqjiyaj88i.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\qpyhsco18m-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\aop78f8ob5-erw9l3u2r3.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\c09obw97ek-aexeepp0ev.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\yul1sfdj1c-d7shbmvgxk.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\ed38e11z0w-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\m6kl07t8lu-k8d9w2qqmf.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\ayojy99k2c-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\938ib93dyn-ub07r2b239.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\pkan1xjwdc-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\078iuoseek-b7pk76d08c.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\oplna0s24r-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\kgvfkiz9e0-rzd6atqjts.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\zesttznygo-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\ai0h8am32q-dxx9fxp4il.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\uhneat879n-jd9uben2k1.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\azxqj0968u-khv3u5hwcm.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\f3zval1rwa-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\3x057v6wkp-lcd1t2u6c8.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\h9jq3hga8n-c2oey78nd0.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\o3hmpn443f-tdbxkamptv.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\hinw1p6k4h-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\i1r2nfka0v-06098lyss8.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\utwnvvzm58-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\rsjvsfnphs-s35ty4nyc5.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\qblv9g2c0o-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\i8icrgfxok-46ein0sx1k.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\nmtb6ol19h-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\yfqea6c15i-37tfw0ft22.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\e09g5jnx9d-hrwsygsryq.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\cwg3ibgqd2-pk9g2wxc8p.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\nawgdjp8gj-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\11o5i2q7c7-6cfz1n2cew.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\i3ou5bwr1z-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\5sjrh00prj-493y06b0oq.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\mn9qhsk6z4-iovd86k7lj.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\mxuqktnks7-vr1egmr9el.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\v6xu7v5ty5-kbrnm935zg.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\bmw8cxvcbo-jj8uyg4cgr.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\77rss86ww4-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\bqtm7nylh1-notf2xhcfb.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\2zbg07shxs-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\dfvoempjp9-63fj8s7r0e.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\abe2b3vv9u-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\njwwa37bma-47otxtyo56.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\yvz53a7vim-4v8eqarkd7.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\xxgfrcva4c-356vix0kms.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\pc6p724n80-83jwlth58m.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\0us4s3tk9b-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\429473rj95-lzl9nlhx6b.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\9se5ggq7lu-ag7o75518u.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\3ig3lr6vmw-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\xo84h3eujh-0i3buxo5is.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\e5djxjvs3p-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\itq6x4diqj-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\rm7xiykkc7-2z0ns9nrw6.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\zfvr047mfz-muycvpuwrr.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\wm1yvjfw76-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\syjar9yfcr-mlv21k5csn.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\j3qyeeyt52-s0zomye5fy.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\compressed\r1vrvl53mz-s0zomye5fy.gz
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets\msbuild.Simple Group Chat App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets\msbuild.Simple Group Chat App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets\msbuild.build.Simple Group Chat App.props
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Simple Group Chat App.props
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Simple Group Chat App.props
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple G.70575F71.Up2Date
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\refint\Simple Group Chat App.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.pdb
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\Simple Group Chat App.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\obj\Debug\net9.0\ref\Simple Group Chat App.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DOT NET\Simple Group Chat App\Simple Group Chat App\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll

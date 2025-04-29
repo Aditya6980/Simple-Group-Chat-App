@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Chatvia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta content="Responsive chat app template" name="description" />
+    <meta content="Themesbrand" name="author" />
+
+    <!-- Remix Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="~/img/favicon.ico" />
+
+    <!-- Core CSS -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/app.min.css" rel="stylesheet" />
+
+    <!-- Plugins CSS -->
+    <link href="~/css/magnific-popup.css" rel="stylesheet" />
+    <link href="~/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/css/owl.theme.default.min.css" rel="stylesheet" />
+
+    @RenderSection("Styles", required: false)
+</head>
+
+<body style="margin: 0; padding: 0; height: 100vh;">
+    <div class="layout-wrapper d-lg-flex w-100" style="min-height: 100vh;">
+        @RenderBody()
+    </div>
+
+    <!-- Core JS -->
+    <script src="~/js/jquery.min.js" asp-append-version="true"></script>
+    <script src="~/js/bootstrap.bundle.min.js" asp-append-version="true"></script>
+
+    <!-- Plugins JS -->
+    <script src="~/js/owl.carousel.min.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.magnific-popup.min.js" asp-append-version="true"></script>
+    <script src="~/js/waves.min.js" asp-append-version="true"></script>
+    <script src="~/js/simplebar.min.js" asp-append-version="true"></script>
+
+    <!-- App JS -->
+    <script src="~/js/index.init.js" asp-append-version="true"></script>
+    <script src="~/js/app.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

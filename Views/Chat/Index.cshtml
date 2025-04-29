@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Chat";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Partial("_Sidebar")
+
+<div class="user-chat d-flex flex-column w-100" style="min-height: 100vh;">
+    @Html.Partial("_Header")
+    @Html.Partial("_ChatMessages")
+    @Html.Partial("_Footer")
+</div>
